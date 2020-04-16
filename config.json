@@ -1,0 +1,6 @@
+{
+"credentials": {
+        "apikey": "<api key>",
+        "appId": "<client id>"
+	}	
+}
